@@ -1,0 +1,2 @@
+# page
+A simple page
